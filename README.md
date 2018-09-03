@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
 Hi there! You can see my works on this website.
 I will be uploading it in this site.
@@ -9,3 +9,4 @@ I will be uploading it in this site.
 
 website(https://venkatesh2407.github.io/projects/EasyLoan/index_car.html).
 ## Thank you!
+                              Venkatesh2407
